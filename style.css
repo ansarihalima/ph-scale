@@ -1,0 +1,109 @@
+*{
+    margin: 0%;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+@font-face {
+    font-family:my font ;
+    src: url(./assest/SignikaNegative-VariableFont_wght.ttf);
+}
+h2{
+    font-family: my font;
+    font-weight: bolder;
+    text-shadow: 2px 3px 2px rgb(123, 119, 119);
+    word-spacing: 6px;
+    letter-spacing: 1px;
+}
+h1{
+    font-family: my font;
+}
+.colour{
+background-color: rgb(21, 10, 240);
+color: aliceblue;
+text-align: center;
+font-weight: bolder;
+}
+.another{
+    background-color: rgb(45,45, 242);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+div{
+    background-color: rgb(62, 65, 245);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+.three{
+    background-color: rgb(76, 76, 265);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+    background-color: rgb(89, 89, 300);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+.six{
+    background-color: rgb(99, 99, 330);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+.seven{
+    background-color: rgb(110,110, 340);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+.eight{
+    background-color: rgb(23, 216, 113);
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+.one{
+    background-color: rgb(255, 209, 245);
+    text-align: center;
+    font-weight: bolder;
+}
+.two{
+    background-color: rgb(245,195,231);
+    text-align: center;
+    font-weight: bolder;
+}
+.thre{
+    background-color: rgb(235, 185, 221);
+    text-align: center;
+    font-weight: bolder;
+}
+.four{
+    background-color: rgb(225, 175, 211);
+    text-align: center;
+    font-weight: bolder;
+}
+.five{
+    background-color: rgb(215, 165, 191);
+    text-align: center;
+    font-weight: bolder;
+}
+.color{
+    background-color:rgb(205, 155, 181);
+    text-align: center;
+    font-weight: bolder;
+}
+.s{
+    background-color: rgb(190,145, 171);
+    font-weight: bolder;
+}
+.e{
+    background-color: rgb(130, 130, 360);
+    font-weight: bolder;
+}
